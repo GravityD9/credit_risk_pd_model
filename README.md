@@ -1,7 +1,6 @@
 <<<<<<< HEAD
 # Credit Risk Assessment - Probability of Default (PD) Prediction
 
-This project is a **credit risk assessment model** that predicts the **Probability of Default (PD)** of loan applicants using a **Logistic Regression** model. It is designed to demonstrate skills in **data science, financial risk modeling, and Python programming**, and can be showcased on GitHub/Resume.
 
 ---
 
