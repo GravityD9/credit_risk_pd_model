@@ -1,6 +1,4 @@
-<<<<<<< HEAD
 # Credit Risk Assessment - Probability of Default (PD) Prediction
-
 
 ---
 
